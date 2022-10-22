@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  *{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+  #heading {
+      color: blue;
+      text-align: center;
+      margin-top: 5%;
+  }
+  #para_1 {
+      color: red;
+      text-align: center;
+  }
+  .head{
+      color: black;
+      margin-top: 2%;
+      text-align: center;
+  }
+  .guesses {
+      margin: 5% 0 0 5%;
+      color: white;
+      background-color: gray;
+  }
